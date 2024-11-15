@@ -16,7 +16,7 @@ format:
 
 ##
 
-![](https://github.com/hubcad25/hubcad25.github.io/blob/main/_SharedFolder_fss_introduction_r/img/qr_code.png){.absolute left=0 right=0 bottom=0 top=0 height="90%" style="margin: auto auto;"}
+![](https://github.com/hubcad25/hubcad25.github.io/blob/main/_SharedFolder_fss_introduction_r/img/qr_code.png?raw=true){.absolute left=0 right=0 bottom=0 top=0 height="90%" style="margin: auto auto;"}
 
 ## Plan de l'atelier{.smaller}
 
